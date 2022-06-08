@@ -1,4 +1,4 @@
-# doorepic
+# DoorEpic
 
 Flash game created in 2013.
 Epicang is the name of the character. The main goal is to reach the door. That's it.
